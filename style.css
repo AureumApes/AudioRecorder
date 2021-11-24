@@ -1,0 +1,15 @@
+* {
+    background-color: #515151;
+}
+button {
+    font-size: 30px;
+    cursor: pointer;
+    border-radius: 20%;
+    border: solid #4a4a4a 3px;
+}
+button:hover {
+    background-color: #4a4a4a;
+}
+.timeline {
+    background-color: white;
+}
